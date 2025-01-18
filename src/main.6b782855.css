@@ -34,7 +34,7 @@ code {
 }
 
 .highlight {
-	background: #9191f747
+	background: #d2d2ff47
 }
 
 a::selection,
@@ -132,5 +132,3 @@ ul::selection {
 		transform: rotate(1turn)
 	}
 }
-
-/*# sourceMappingURL=main.6b782855.css.map*/
