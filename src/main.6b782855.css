@@ -4,7 +4,7 @@
 body {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	font-family: Inter, sans-serif
+	font-family: 'Droid Sans', Inter, sans-serif
 }
 
 @media (max-width:1000px) {
